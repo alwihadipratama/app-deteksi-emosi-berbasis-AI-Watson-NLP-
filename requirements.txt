@@ -1,0 +1,4 @@
+flask
+watson-nlp
+pytest
+pylint
